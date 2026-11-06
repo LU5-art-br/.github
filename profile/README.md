@@ -1,12 +1,12 @@
 # LU5 Núcleo Criativo
 
-**Criatividade com presença. Estratégia com alma.**[cite: 1]
+**Criatividade com presença. Estratégia com alma.**
 
-O LU5 Núcleo Criativo é o ponto de convergência entre estratégia, criatividade e execução técnica.[cite: 1] Representa a identidade artística e tecnológica de Luciano Santa Brígida, um artista e programador multidisciplinar.[cite: 1] Esta organização no GitHub centraliza projetos que unem a visão criativa à identidade autoral, abrangendo desde o desenvolvimento de software e Inteligência Artificial até à produção cultural.[cite: 1]
+O LU5 Núcleo Criativo é o ponto de convergência entre estratégia, criatividade e execução técnica.[cite: 1] Representa a identidade artística e tecnológica de Luciano Santa Brígida, um artista e programador multidisciplinar. Esta organização no GitHub centraliza projetos que unem a visão criativa à identidade autoral, abrangendo desde o desenvolvimento de software e Inteligência Artificial até à produção cultural.
 
 ## 🚀 Áreas de Atuação e Projetos
 
-A multidisciplinaridade reflete-se nos nossos repositórios e iniciativas, focados nos seguintes talentos[cite: 1]:
+A multidisciplinaridade reflete-se nos nossos repositórios e iniciativas, focados nos seguintes talentos:
 
 *   **💻 Game Design & Desenvolvimento Interativo:** Concepção de mecânicas, narrativas interativas e experiências de jogo que envolvem e desafiam — do conceito ao protótipo jogável.
 *   **🎵 Música & Audio Tech:** Apresentações musicais ao vivo com identidade sonora e ferramentas para o ecossistema de streaming.
